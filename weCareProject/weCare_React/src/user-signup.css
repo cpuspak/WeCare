@@ -1,0 +1,79 @@
+.card-user-signup{
+    margin-top:35px;
+    padding:20px;
+    background-color: rgba(5, 5, 5, 1);
+    border-radius: 10px;
+}
+
+.form-user-signup{
+    color:white;
+    padding:20px;
+}
+
+.label-user-signup{
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 15px;
+
+}
+
+.mybtn-user-signup{
+    width: 100%;
+    /* background-color: rgb(129, 122, 122); */
+    /* color: white; */
+    font-family: 'Montserrat', sans-serif;;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+/* .mybtn:hover{
+    background-color: rgb(54, 54, 54);
+}
+
+.mybtn:disabled:hover{
+    background-color: rgb(129, 122, 122);
+} */
+
+/* .mybtn1:hover{
+    background-color: rgb(54, 54, 54);
+} */
+.mybtn1-user-signup{
+    width: 30%;
+    /* background-color: rgb(129, 122, 122); */
+    /* color: white; */
+    font-family: 'Montserrat', sans-serif;;
+    font-weight: 400;
+    font-size: 20px;
+}
+.myerror-user-signup{
+    font-family: 'Montserrat', sans-serif;;
+    color: red;
+    font-size:12px;
+}
+
+.img-user-signup{
+    width: 50px;
+    height: 50px;
+}
+
+.span-user-signup{
+    color: white;
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 30px;
+}
+
+.success-user-signup{
+    color: black;
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 45px;
+}
+
+.secImage-user-signup{
+    height: 150px;
+    width: 150px;
+}
+
+@font-face{
+    font-family: myFont;
+    /*src:url(../../assets/Fonts/Oswald-Regular.ttf);*/
+}
+

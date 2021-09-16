@@ -1,0 +1,58 @@
+.card-coach-signup{
+    margin-top:55px;
+    padding:20px;
+    background-color: rgba(5, 5, 5, 1);
+    border-radius: 10px;
+}
+
+.form-coach-signup{
+    color:white;
+}
+
+.myerror1-coach-signup{
+    font-family: 'Montserrat', sans-serif;;
+    color: red;
+    font-size:14px;
+}
+
+.mybtn-coach-signup{
+    /* background-color: rgb(129, 122, 122); */
+    /* color: white; */
+    font-family: 'Montserrat', sans-serif;;
+    font-weight: 400;
+    width:100%;
+    font-size: 18px;
+}
+
+/* .mybtn:hover{
+    background-color: rgb(54, 54, 54);
+}
+
+.mybtn:disabled:hover{
+    background-color: rgb(129, 122, 122);
+} */
+
+
+.img-coach-signup{
+    width: 50px;
+    height: 50px;
+}
+
+
+.myerror-coach-signup{
+    font-family: 'Montserrat', sans-serif;;
+    color: red;
+    font-size:12px;
+}
+
+.span-coach-signup{
+    color: white;
+    font-family: 'Montserrat', sans-serif;;
+    font-size: 30px;
+}
+
+@font-face{
+    font-family: myFont;
+    /*src:url(../../assets/Fonts/Oswald-Regular.ttf);*/
+}
+
